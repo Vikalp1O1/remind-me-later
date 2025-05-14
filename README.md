@@ -28,7 +28,7 @@ A RESTful API service for setting up reminders with custom messages. This applic
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Vikalp1O1/remind-me-later
+git clone https://github.com/Vikalp1O1/remind-me-later.git
 cd remind-me-later
 ```
 
